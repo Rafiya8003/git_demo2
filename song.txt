@@ -5,3 +5,6 @@ D for Dog..
 
 E for Elephant..
 F for Fox..
+
+G for Goat..
+H for Hat..
